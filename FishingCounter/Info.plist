@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<!--
-   Info.plist
-   FishingCounter
-
-   Created by Kei Kitamura on 2025/02/04.
-   Copyright (c) 2025 ___ORGANIZATIONNAME___. All rights reserved.
--->
 <plist version="1.0">
-<dict/>
+<dict>
+	<key>CFBundleName</key>
+	<string>FishingCounter</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.keikitamura232323.FishingCounter</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>BundleVersionString</key>
+	<string>1.0</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>釣果の記録に現在地を使用します。</string>
+</dict>
 </plist>

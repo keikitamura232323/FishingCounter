@@ -1,1 +1,7 @@
-*.xcuserstate
+# macOSが自動生成する不要なファイル
+.DS_Store
+
+# Xcode関連の不要なファイル
+DerivedData/
+*.xcworkspace/
+*.xcuserstate/*.xcuserstate
